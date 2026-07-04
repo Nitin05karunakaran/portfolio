@@ -3,7 +3,7 @@
 
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  Visit at <a href="https://portfolio-nitin-karunakaran.vercel.app/">portfolio</a>
 </div>
 
 <br/>
